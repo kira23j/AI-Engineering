@@ -1,0 +1,161 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+wheels/
+pip-wheel-metadata/
+
+# Virtual environments
+.env
+.env.*
+venv/
+.venv/
+ENV/
+env/
+
+# ----------------------
+# Jupyter & Notebooks
+# ----------------------
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Jupyter Lab / Server
+.jupyter/
+.jupyterlab/
+local_history/
+
+# ----------------------
+# Data & Datasets
+# ----------------------
+data/
+dataset/
+datasets/
+raw_data/
+processed_data/
+interim_data/
+
+*.csv
+*.tsv
+*.json
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+
+# Allow small sample datasets if needed
+!data/sample/
+!datasets/sample/
+
+# ----------------------
+# Models & Artifacts
+# ----------------------
+models/
+checkpoints/
+artifacts/
+outputs/
+runs/
+
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pb
+*.tflite
+*.h5
+*.hdf5
+*.mlmodel
+
+# ----------------------
+# Experiment Tracking
+# ----------------------
+mlruns/
+wandb/
+.wandb/
+neptune/
+clearml/
+tensorboard/
+logs/
+*.log
+
+# ----------------------
+# Caches
+# ----------------------
+.cache/
+.cache/*
+pip-cache/
+torch-cache/
+huggingface/
+.huggingface/
+
+# Hugging Face
+hf_cache/
+transformers_cache/
+
+# ----------------------
+# IDEs & Editors
+# ----------------------
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+*.swp
+*.swo
+
+# ----------------------
+# OS Files
+# ----------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ----------------------
+# Docker
+# ----------------------
+docker-data/
+*.pid
+
+# ----------------------
+# Secrets & Credentials
+# ----------------------
+.env
+.env.local
+.env.dev
+.env.prod
+
+*.pem
+*.key
+*.crt
+credentials.json
+secrets.json
+
+# ----------------------
+# Reports & Outputs
+# ----------------------
+reports/
+figures/
+plots/
+charts/
+
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# ----------------------
+# Misc
+# ----------------------
+.tmp/
+.temp/
+*.bak
+*.old

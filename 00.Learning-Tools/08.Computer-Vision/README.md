@@ -1,1 +1,0 @@
-# Section for computer vision tools

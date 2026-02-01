@@ -1,12 +1,7 @@
-# AIx
+# AI-Engineering 🚀
 
-Welcome to **AIx**, your comprehensive hub for diverse machine learning and AI models. This repository features:
+### A Practical Hub for AI Engineering, Machine Learning & AI Notebooks
 
-- **Sklearn**: Classical ML algorithms
-- **TensorFlow**: Scalable deep learning
-- **Keras**: User-friendly neural networks
-- **PyTorch**: Dynamic computational graphs
-- **LLMs (Large Language Models)**: Advanced NLP tasks
-- **And more**: Cutting-edge AI technologies
+Welcome to **AI-Engineering** — a hands-on repository dedicated to **AI Engineering**, featuring a growing collection of **machine learning and artificial intelligence notebooks** built for learning, experimentation, and real-world application.
 
-Explore AIx to discover a wide range of models and tools designed to tackle various machine learning tasks and applications.
+> **"AI is not just trained — it’s engineered."**
